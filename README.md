@@ -33,7 +33,7 @@ The is open assistive technology (OpenAT). Under the terms of the open source li
 The overall cost of materials is about $ (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="Photos/Device_Name.jpg" width="500" alt="Picture of Adapted Recorder Button.">
+<img src="photos/device-name.jpg" width="500" alt="Picture of Adapted Recorder Button.">
 
 ## How to Obtain the Device
 
