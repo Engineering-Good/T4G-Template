@@ -43,7 +43,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us—your stories and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
