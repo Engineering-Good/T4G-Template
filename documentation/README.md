@@ -1,2 +1,3 @@
-This folder contains the documentation  files for the device. 
-This may include working-documents in microsoft word/google doc. PDF and csv is the latest version of the device.
+This folder contains the latest documentation files for the device. 
+This may include working-documents folder in microsoft word/google doc. 
+PDF the final product manual and csv the BOM of the device.
