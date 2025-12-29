@@ -17,9 +17,10 @@ This template has a number of fields that can be searched and replaced with othe
  - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/Engineering-Good/T4G-Adapted-Recorder-Button))
  - <MaterialCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of the materials of the device.
  - <ShippingCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of shipping the device (if possible).
- - <YEAR> year(s) of the copyright
+ - <YEAR> year(s) of the copyright 
  
 Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
+--->
 <!--- delete this part after done. End --->
 
 # <DeviceName>
@@ -34,7 +35,7 @@ The is open assistive technology (OpenAT). Under the terms of the open source li
 The overall cost of materials is about $ (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" alt="Picture of Adapted Recorder Button.">
+<img src="photos/device-name.jpg" width="500" alt="Picture of Template Device Name.">
 
 ## How to Obtain the Device
 
@@ -44,7 +45,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the TEMPLATE, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 
@@ -52,15 +53,15 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
+The [Bill of Materials](/documentation/Template_BOM.csv) lists all of the parts and components required to build the Template Device.
 
-### 3. Assemble the Adapted Recorder Button
+### 3. Assemble the Template Device
 
-Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
