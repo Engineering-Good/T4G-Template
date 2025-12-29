@@ -17,9 +17,10 @@ This template has a number of fields that can be searched and replaced with othe
  - <Repository_Link> Replace this with the web address for the repository. e.g., (e.g., https://github.com/Engineering-Good/T4G-Adapted-Recorder-Button))
  - <MaterialCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of the materials of the device.
  - <ShippingCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of shipping the device (if possible).
- - <YEAR> year(s) of the copyright
+ - <YEAR> year(s) of the copyright 
  
 Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
+--->
 <!--- delete this part after done. End --->
 
 # <DeviceName>
