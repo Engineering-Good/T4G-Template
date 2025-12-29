@@ -1,4 +1,5 @@
 # T4G-Template
+<!--- delete this part after done. Start --->
 This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. 
 <!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
@@ -19,10 +20,10 @@ This template has a number of fields that can be searched and replaced with othe
  - <YEAR> year(s) of the copyright
  
 Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
+<!--- delete this part after done. End --->
 
---->
-<!--- TITLE --->
 # <DeviceName>
+<!--- TITLE --->
 <!--- SUMMARY --->
 The is an assistive technology device that.
 
@@ -46,6 +47,8 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 - Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
+
+## Build Instructions
 
 ### 1. Read through the Maker Guide
 
@@ -88,7 +91,7 @@ Copyright (c) 2024 Neil Squire / Makers Making Change.
 
 This repository describes Open Hardware:
 
-- Everything needed or used to design, make, test, or prepare the Playback Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
+- Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
