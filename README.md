@@ -88,7 +88,7 @@ The core design for this device/template is based on the some device/template, a
 
 ## License
 
-Copyright (c) 2024 Neil Squire / Makers Making Change.
+Copyright (c) 2024 Engineering Good
 
 This repository describes Open Hardware:
 
