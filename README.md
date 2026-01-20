@@ -88,7 +88,7 @@ The core design for this device/template is based on the some device/template, a
 
 ## License
 
-Copyright (c) 2024 Neil Squire / Makers Making Change.
+Copyright (c) 2024 Engineering Good
 
 This repository describes Open Hardware:
 
@@ -100,7 +100,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <https://github.com/makersmakingchange/Playback-Switch>
+Source Location: <https://github.com/Engineering-Good/T4G-Template>
 
 ----
 
