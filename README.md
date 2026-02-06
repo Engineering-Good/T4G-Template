@@ -1,6 +1,6 @@
 # T4G-Template
 <!--- delete this part after done. Start --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](https://github.com/makersmakingchange/OpenAT-Template/blob/main/OpenAT_Template_Guide.pdf).
+This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](https://github.com/makersmakingchange/OpenAT-Template/blob/main/OpenAT_Template_Guide.pdf). * working in progress for EG T4G Template Guide.
 <!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 
