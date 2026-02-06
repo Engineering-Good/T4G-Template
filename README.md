@@ -35,7 +35,7 @@ The is open assistive technology (OpenAT). Under the terms of the open source li
 The overall cost of materials is about $ (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" alt="Picture of Template Device Name.">
+<img src="photos/device-name.jpg" width="500" alt="Picture of Template A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -110,14 +110,18 @@ Source Location: <https://github.com/Engineering-Good/T4G-Template>
 <img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
 
 - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
-- GitHub: [Engineering Good](https://github.com/Engineering-Good)
+- GitHub: [Engineering-Good](https://github.com/Engineering-Good)
 - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
 - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
 - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
 - Thingiverse: [engineeringgood](https://www.thingiverse.com/engineeringgood/designs)
-- Printables: [engineeringgood](https://www.printables.com/@engineeringg_4351657)
+- Printables: [@engineeringg_4351657](https://www.printables.com/@engineeringg_4351657)
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/), [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
+For technical or non-techical questions, to get involved, or to share your experience we encourage you to 
+- visit [our website](https://www.engineeringgood.org/)
+- contact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
+- email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
+- Volunteering Opportunities []
 <!-- ABOUT EG END -->
