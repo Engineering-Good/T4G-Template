@@ -125,8 +125,8 @@ Source Location: <https://github.com/Engineering-Good/T4G-Template>
 ### Contact Us
 
 For technical or non-techical questions, to get involved, or to share your experience we encourage you to 
-- visit [our website](https://www.engineeringgood.org/)
-- contact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
-- email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
-- Volunteering Opportunities [working in progress](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
+- visit [our website ](https://www.engineeringgood.org/)
+- contact us via [contact us form ](https://www.engineeringgood.org/contact-faq/)
+- email us at [contactus@engineeringgood.org ](mailto:contactus@engineeringgood.org)
+- Volunteering Opportunities [working in progress ](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
 <!-- ABOUT EG END -->
