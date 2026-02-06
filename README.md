@@ -35,7 +35,7 @@ The is open assistive technology (OpenAT). Under the terms of the open source li
 The overall cost of materials is about $ (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" alt="Picture of Template A Nice Main Device Name.">
+<img src="photos/device-name.jpg" width="500" style="border-radius:50%" alt="Picture of Template A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -80,6 +80,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ## Open Hardware Attribution
 
+The template was designed by.
+
+The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [MMC OpenAt Template](https://github.com/makersmakingchange/OpenAT-Template)
+
 The core design for this device/template is based on the some device/template, an open-source assistive technology project.
 - Original Designer: Makers Making Change (a program of Neil Squire).
 - Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
@@ -92,7 +96,7 @@ Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
-- Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
+- Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -102,28 +106,13 @@ Please see the CERN-OHL-W v2 for applicable conditions.
 
 Source Location: <https://github.com/Engineering-Good/T4G-Template>
 
-## Attribution
-
-The Template was designed by.
-
-The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
-
-Contributors
-Designers:
-
-<DESIGNER 1>
-<DESIGNER 2>
-Testers:
-
-<TESTER 1>
-<TESTER 2>
 
 ----
 
 <!-- ABOUT EG START -->
 ## About Engineering Good
 
-<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
+<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" style="border-radius:50%" alt="Picture of EG staff and volunteers.">
 
 - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
 - GitHub: [Engineering-Good](https://github.com/Engineering-Good)
