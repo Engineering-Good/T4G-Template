@@ -1,6 +1,6 @@
 # T4G-Template
 <!--- delete this part after done. Start --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. 
+This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](https://github.com/makersmakingchange/OpenAT-Template/blob/main/OpenAT_Template_Guide.pdf).
 <!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 
@@ -102,6 +102,22 @@ Please see the CERN-OHL-W v2 for applicable conditions.
 
 Source Location: <https://github.com/Engineering-Good/T4G-Template>
 
+## Attribution
+
+The Template was designed by.
+
+The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
+
+Contributors
+Designers:
+
+<DESIGNER 1>
+<DESIGNER 2>
+Testers:
+
+<TESTER 1>
+<TESTER 2>
+
 ----
 
 <!-- ABOUT EG START -->
@@ -123,5 +139,5 @@ For technical or non-techical questions, to get involved, or to share your exper
 - visit [our website](https://www.engineeringgood.org/)
 - contact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
 - email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
-- Volunteering Opportunities []
+- Volunteering Opportunities [working in progress](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
 <!-- ABOUT EG END -->
