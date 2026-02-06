@@ -1,6 +1,6 @@
 # T4G-Template
 <!--- delete this part after done. Start --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. 
+This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](https://github.com/makersmakingchange/OpenAT-Template/blob/main/OpenAT_Template_Guide.pdf). * working in progress for EG T4G Template Guide.
 <!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 
@@ -23,7 +23,7 @@ Any text that is currently holding a space / is an instruction for the person fi
 --->
 <!--- delete this part after done. End --->
 
-# <DeviceName>
+# Overview
 <!--- TITLE --->
 <!--- SUMMARY --->
 The is an assistive technology device that.
@@ -35,7 +35,7 @@ The is open assistive technology (OpenAT). Under the terms of the open source li
 The overall cost of materials is about $ (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" alt="Picture of Template Device Name.">
+<img src="photos/device-name.jpg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -80,6 +80,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 ## Open Hardware Attribution
 
+The template was designed by.
+
+The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [MMC OpenAt Template](https://github.com/makersmakingchange/OpenAT-Template)
+
 The core design for this device/template is based on the some device/template, an open-source assistive technology project.
 - Original Designer: Makers Making Change (a program of Neil Squire).
 - Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
@@ -92,7 +96,7 @@ Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
-- Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
+- Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -102,22 +106,27 @@ Please see the CERN-OHL-W v2 for applicable conditions.
 
 Source Location: <https://github.com/Engineering-Good/T4G-Template>
 
+
 ----
 
 <!-- ABOUT EG START -->
 ## About Engineering Good
 
-<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
+<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" style="border-radius: 15px" alt="Picture of EG staff and volunteers.">
 
 - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
-- GitHub: [Engineering Good](https://github.com/Engineering-Good)
+- GitHub: [Engineering-Good](https://github.com/Engineering-Good)
 - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
 - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
 - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
 - Thingiverse: [engineeringgood](https://www.thingiverse.com/engineeringgood/designs)
-- Printables: [engineeringgood](https://www.printables.com/@engineeringg_4351657)
+- Printables: [@engineeringg_4351657](https://www.printables.com/@engineeringg_4351657)
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/), [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
+For technical or non-techical questions, to get involved, or to share your experience we encourage you to 
+- visit [our website](https://www.engineeringgood.org/)
+- contact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
+- email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
+- Volunteering Opportunities [working in progress](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
 <!-- ABOUT EG END -->
