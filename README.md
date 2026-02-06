@@ -119,8 +119,8 @@ Source Location: <https://github.com/Engineering-Good/T4G-Template>
 - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
 - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
 - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
-- Thingiverse: [engineeringgood ](https://www.thingiverse.com/engineeringgood/designs)
-- Printables: [@engineeringg_4351657 ](https://www.printables.com/@engineeringg_4351657)
+- Thingiverse: [engineeringgood](https://www.thingiverse.com/engineeringgood/designs)
+- Printables: [@engineeringg_4351657](https://www.printables.com/@engineeringg_4351657)
 
 ### Contact Us
 
