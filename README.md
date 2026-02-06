@@ -35,7 +35,7 @@ The is open assistive technology (OpenAT). Under the terms of the open source li
 The overall cost of materials is about $ (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" style="border-radius:50%" alt="Picture of Template A Nice Main Device Name.">
+<img src="photos/device-name.jpg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
 
 ## How to Obtain the Device
 
@@ -112,7 +112,7 @@ Source Location: <https://github.com/Engineering-Good/T4G-Template>
 <!-- ABOUT EG START -->
 ## About Engineering Good
 
-<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" style="border-radius:50%" alt="Picture of EG staff and volunteers.">
+<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" style="border-radius: 15px" alt="Picture of EG staff and volunteers.">
 
 - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
 - GitHub: [Engineering-Good](https://github.com/Engineering-Good)
