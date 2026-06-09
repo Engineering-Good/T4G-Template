@@ -1,10 +1,7 @@
-# T4G-Template
 <!--- delete this part after done. Start --->
 This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [OpenAT_Template_Guide](https://github.com/makersmakingchange/OpenAT-Template/blob/main/OpenAT_Template_Guide.pdf). * working in progress for EG T4G Template Guide.
 <!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
-
-
 <!--- INSTRUCTIONS --->
 <!--- This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
 
@@ -18,23 +15,22 @@ This template has a number of fields that can be searched and replaced with othe
  - <MaterialCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of the materials of the device.
  - <ShippingCost> Replace this with the dollar cost and currency (SGD, USD, etc.) of shipping the device (if possible).
  - <YEAR> year(s) of the copyright 
+ - <Text> that underline need to be replace, update or remove
  
 Any text that is currently holding a space / is an instruction for the person filling in the README is in all capitals, to make it easier to see them in a rendered version.
 --->
 <!--- delete this part after done. End --->
 
-# Overview
 <!--- TITLE --->
-<!--- SUMMARY --->
-The is an assistive technology device that.
+# <u>T4G-Template</u>
 
+<!--- This is Overview is optional --->
+<u>Overview</u>
+<u>The is an assistive technology device that.
 The device is comprised of off-the-shelf electronics and 3D printed parts.
+The is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.The overall cost of materials is about $ (excluding component shipping fee).
+The current version of the device (v1.0) has been built and user tested.</u>
 
-The is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
-
-The overall cost of materials is about $ (excluding component shipping fee).
-
-The current version of the device (v1.0) has been built and user tested.
 <img src="photos/device-name.jpg" width="500" style="border-radius: 15px" alt="Picture of Template A Nice Main Device Name.">
 
 ## How to Obtain the Device
@@ -53,15 +49,15 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The <u>[Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf)</u>contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Template_BOM.csv) lists all of the parts and components required to build the Template Device.
+The <u>[Bill of Materials](/documentation/Template_BOM.csv)</u> lists all of the parts and components required to build the Template Device.
 
 ### 3. Assemble the Template Device
 
-Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the <u>[Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf)</u> for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
@@ -73,12 +69,13 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)     |
-| Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Template_BOM.csv)     |
-| User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)    |
-| Changelog            | 1.0     | [Template_Change_Log](/documentation/CHANGES.txt)     |
+| Maker Guide          | 1.0     | <u>[Template_Maker_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)</u>     |
+| Bill of Materials    | 1.0     | <u>[Template_Bill_of_Materials](/documentation/Template_BOM.csv)</u>     |
+| User Guide           | 1.0     | <u>[Template_User_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)</u>    |
+| Changelog            | 1.0     | <u>[Template_Change_Log](/documentation/CHANGES.txt)</u>     |
 
-## Open Hardware Attribution
+<!-- this part can remove is product is created by EG staff or volunteers -->
+## <u>Open Hardware Attribution</u>
 
 The template was designed by.
 
@@ -87,8 +84,7 @@ The documentation template was created by Makers Making Change / Neil Squire Soc
 The core design for this device/template is based on the some device/template, an open-source assistive technology project.
 - Original Designer: Makers Making Change (a program of Neil Squire).
 - Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
-- Original Source Location: The original project source files are available online at: 
-<https://github.com/makersmakingchange/OpenAT-Template>
+- Original Source Location: The original project source files are available online at <u>[OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template) </u>
 
 ## License
 
@@ -98,7 +94,7 @@ This repository describes Open Hardware:
 
 - Everything needed or used to design, make, test, or prepare the Template is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
-- Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+- Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <u>Device Name</u> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
